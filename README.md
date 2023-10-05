@@ -20,7 +20,7 @@ and to refresh command syntax, output, changed prerequisites, as needed.
 
 > Note: Please add examples that are maintained to the list above.
 
-See [Example Guidelines](guidelines.md) for a description of what goes
+See [Example Guidelines](guidelines.md) for a description of what goesXXX
 in this directory, and what examples should contain.
 
 [Kubernetes documentation]: https://kubernetes.io/docs/tutorials/
